@@ -1,4 +1,4 @@
-HackTrent 2024 Submission
+# HackTrent 2024 Submission
 Event Description:
 Start Date: November 8, 2024
 End Date: November 10, 2024
@@ -26,7 +26,7 @@ Prizes and Opportunities: Apart from tech gadgets, winners received valuable pri
 GitHub Integration
 The GitHub Workshop was a key feature, teaching participants how to use GitHub effectively for collaborative coding. This was complemented by the hackathon's use of Devpost for project submissions, ensuring a streamlined and professional showcase of participants' work.
 
-Event Metrics
+## Event Metrics
 Attendees:
 Total: 200
 
@@ -38,11 +38,11 @@ Total Projects: 22
 
 Submission Page: https://hacktrent.devpost.com/
 
-Tech Impact & Diversity
+## Tech Impact & Diversity
 Target Audience:
 HackTrent 2024 was targeted toward students passionate about technology, innovation, and problem-solving. It aimed to provide a platform for students of all backgrounds to collaborate and create.
 
-Impact of GitHub Grant
+## Impact of GitHub Grant
 Usage of Grant Funds:
 The GitHub Grant was used to support the following:
 Providing prizes and giveaways to motivate participants.
@@ -55,7 +55,7 @@ Facilitate learning experiences, especially for first-time hackers.
 Provide a platform for innovative projects that addressed real-world challenges.
 
 
-Top Projects at HackTrent 2024
+## Top Projects at HackTrent 2024
 HackTrent 2024 showcased an array of incredible projects that tackled real-world problems through innovative technology. Here are some of the standout submissions:
 
 1. EcoSort AI
@@ -86,35 +86,45 @@ Integrate GitHub Actions: Many teams leveraged GitHub’s CI/CD features for aut
 Document and Share Work: Projects included detailed README files and used GitHub Pages to host demos.
 GitHub was not just a tool but a central part of the development process, empowering hackers to build, collaborate, and innovate efficiently.
 
-Event Photos:
+## Event Photos:
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/HackTrent1.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> HackTrent hackers! </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/HackTrentBoba.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> Boba break! </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/HackTrentCheckin.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> Checkin </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/HackTrentGuest.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> A special guest! </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/HackTrentHackers.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> More Hackers! </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/HackTrentJudging.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> Judging Time! </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/HackTrentMentoring.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> Mentoring </b>|
+
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/HackTrentOrganizers.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> Organizers </b>|
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-What’s Next for HackTrent?
+## What’s Next for HackTrent?
 HackTrent 2024 was an inspiring showcase of innovation, collaboration, and creativity, bringing together passionate hackers from across Canada. The event highlighted the power of community and the impact of technology in solving real-world problems.
 
 But this is just the beginning! We’re thrilled to announce that HackTrent 2025 is already in the works and promises to be even bigger and better. Building on the success of this year’s event, HackTrent 2025 will feature more workshops, exciting mini-events, and cutting-edge themes to inspire the next wave of innovation.
