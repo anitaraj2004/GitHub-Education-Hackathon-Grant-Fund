@@ -6,7 +6,7 @@ _You can use this repository to document & celebrate your event highlights!_
 
 ### Content Submission Template: 
 
-# {UniHack 6}
+# UniHack 6
 UniHack is an international hackathon for high school and university students.
 It is hosted by Liga AC in Timișoara, from November 7 to 10, 2024.
 The project aims to encourage young people to actively engage with their community by developing technical solutions to real-world problems it faces.
@@ -68,9 +68,21 @@ A short description of the projects, provided by the team members can be found h
 - We want to see how great your event was! <br>
 - Please include pictures and/or video of your event highlights! Use the format below: 
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/UniHack1.jpg" width="500" height="auto"> | 
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> Conference panel speakers presentation </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/UniHack2.jpg" width="500" height="auto"> | 
+|:--:|
+| <b> Embedded project team setup </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/UniHack3.jpg" width="500" height="auto"> | 
+|:--:|
+| <b> Just Dance competition team </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/UniHack4.jpg" width="500" height="auto"> | 
+|:--:|
+| <b> Mentor playing with VR project </b>|
 
 ## What’s Next?
 - Include a high-level wrap-up summary <br>
