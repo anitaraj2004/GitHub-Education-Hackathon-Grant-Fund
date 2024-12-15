@@ -84,6 +84,8 @@ A short description of the projects, provided by the team members can be found h
 |:--:|
 | <b> Mentor playing with VR project </b>|
 
+more pictures available here: https://drive.google.com/drive/folders/1DIEhpSkENm29f5uLrgBpA2JNYWGKIb0L?usp=sharing
+
 ## What’s Next?
 - Include a high-level wrap-up summary <br>
 UniHack 6 was the biggest hackathon we have ever organized by number of participants. We hope to match that energy with the next edition!
