@@ -68,19 +68,19 @@ A short description of the projects, provided by the team members can be found h
 - We want to see how great your event was! <br>
 - Please include pictures and/or video of your event highlights! Use the format below: 
 
-| <img src="https://github.com/Pitza2/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/UniHack1.jpg" width="500" height="auto"> | 
+| <img src="https://github.com/Pitza2/GitHub-Education-Hackathon-Grant-Fund/blob/patch-1/Hackathons_2024/images/UniHack1.jpg" width="500" height="auto"> | 
 |:--:|
 | <b> Conference panel speakers presentation </b>|
 
-| <img src="https://github.com/Pitza2/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/UniHack2.jpg" width="500" height="auto"> | 
+| <img src="https://github.com/Pitza2/GitHub-Education-Hackathon-Grant-Fund/blob/patch-1/Hackathons_2024/images/UniHack2.jpg" width="500" height="auto"> | 
 |:--:|
 | <b> Embedded project team setup </b>|
 
-| <img src="https://github.com/Pitza2/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/UniHack3.jpg" width="500" height="auto"> | 
+| <img src="https://github.com/Pitza2/GitHub-Education-Hackathon-Grant-Fund/blob/patch-1/Hackathons_2024/images/UniHack3.jpg" width="500" height="auto"> | 
 |:--:|
 | <b> Just Dance competition team </b>|
 
-| <img src="https://github.com/Pitza2/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/UniHack4.jpg" width="500" height="auto"> | 
+| <img src="https://github.com/Pitza2/GitHub-Education-Hackathon-Grant-Fund/blob/patch-1/Hackathons_2024/images/UniHack4.jpg" width="500" height="auto"> | 
 |:--:|
 | <b> Mentor playing with VR project </b>|
 
